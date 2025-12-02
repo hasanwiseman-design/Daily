@@ -1,0 +1,26 @@
+body{
+ font-family: Arial;
+ background:#eef2f3;
+ padding:20px;
+ text-align:center;
+}
+
+.container{
+ max-width:400px;
+ margin:auto;
+ background:white;
+ padding:20px;
+ border-radius:15px;
+ box-shadow:0 0 10px rgba(0,0,0,.1);
+}
+
+#clock{ margin:20px 0; }
+
+button{
+ padding:10px 20px;
+ background:#008cff;
+ color:white;
+ border:none;
+ border-radius:8px;
+ cursor:pointer;
+}
